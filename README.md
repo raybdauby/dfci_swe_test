@@ -29,7 +29,12 @@ Clone Repository:
 ```$ git clone https://github.com/raybdauby/dfci_swe_test.git```
 
 Move sample_files from wd to dfci_swe_test:  
+(assuming it is in your wd)  
 ```$ mv sample_files dfci_swe_test/```
+
+Move Example.hs_intervals.txt to dfci_swe_test:  
+(assuming it is in your wd)  
+```$ mv Example.hs_intervals.txt dfci_swe_test/```
 
 Run files (below)  
 
