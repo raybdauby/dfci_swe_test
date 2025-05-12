@@ -24,6 +24,14 @@ May 12, 2025
         └── gtf
             └── hg19_annotations.gtf
         
+### Setup: 
+Clone Repository:  
+```$ git clone https://github.com/raybdauby/dfci_swe_test.git```
+
+Move sample_files from wd to dfci_swe_test
+
+Run files (below)
+
 ### Task 1, Part 1:  
 Run: ```python3 dfci_bidh_task1_part1.py```
 
