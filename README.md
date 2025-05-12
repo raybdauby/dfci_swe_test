@@ -28,21 +28,22 @@ May 12, 2025
 Clone Repository:  
 ```$ git clone https://github.com/raybdauby/dfci_swe_test.git```
 
-Move sample_files from wd to dfci_swe_test
+Move sample_files from wd to dfci_swe_test:  
+```$ mv sample_files dfci_swe_test/```
 
-Run files (below)
+Run files (below)  
 
-### Task 1, Part 1:  
-Run: ```python3 dfci_bidh_task1_part1.py```
+Task 1, Part 1: 
+```python3 dfci_bidh_task1_part1.py```
 
-### Task 1, Part 2:
-Run: ```python3 dfci_bidh_task1_part2.py```
+Task 1, Part 2:
+```python3 dfci_bidh_task1_part2.py```
 
-### Task 1, Part 3: 
-Run: ```python3 dfci_bidh_task1_part3.py```
+Task 1, Part 3: 
+```python3 dfci_bidh_task1_part3.py```
 
-### Task 2: 
-Run: ```python3 dfci_bidh_task2.py```
+Task 2: 
+```python3 dfci_bidh_task2.py```
 
-### Task 3: 
-Run: ```python3 dfci_bidh_task3.py```
+Task 3: 
+```python3 dfci_bidh_task3.py```
